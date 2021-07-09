@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+coimport logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>This app is made by Sahil</h1>
+        <h1>Welome TO React App</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
